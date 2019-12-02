@@ -1,0 +1,36 @@
+{
+  "name": "work",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Quasar App",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "Sylvanito <sylvanotombo@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "openseadragon": "^2.4.1",
+    "paper": "^0.12.3",
+    "quasar": "^1.0.0",
+    "rbush": "^3.0.1",
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0",
+    "vuetify": "^2.1.12",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
