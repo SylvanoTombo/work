@@ -19,7 +19,7 @@
     "rbush": "^3.0.1",
     "sass": "^1.23.7",
     "sass-loader": "^8.0.0",
-    "vuetify": "^2.1.12",
+    "vuetify": "^2.6.10",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
